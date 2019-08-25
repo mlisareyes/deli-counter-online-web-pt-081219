@@ -18,6 +18,6 @@ def take_a_number(array, name)
     puts "Welcome, #{name}. You are number 1 in line."
   else
     if array.length > 1
-      puts "Welcome, #{name}. You are number #{array.find_index("#{name}")} in line."
+      puts "Welcome, #{name}. You are number #{array.find_index.last} in line."
   end
 end
