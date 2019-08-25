@@ -11,3 +11,6 @@ def line(array)
     #use string interpolation to show each array element in order seperated by a space
   end
 end
+
+def take_a_number
+end
