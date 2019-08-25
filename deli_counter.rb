@@ -14,4 +14,7 @@ end
 
 def take_a_number(array, name)
   array << name
+  if array.length == 1
+    "Welcome, #{name}. You are number 1 in line."
+
 end
