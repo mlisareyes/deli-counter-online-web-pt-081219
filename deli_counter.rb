@@ -18,4 +18,5 @@ def take_a_number(array, name)
     "Welcome, #{name}. You are number 1 in line."
   else
     hello
+  end
 end
