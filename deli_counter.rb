@@ -28,5 +28,4 @@ def now_serving(array)
     puts "Currently serving #{name[0]}."
     array.shift
   end
-  now_serving(katz_deli)
 end
